@@ -13,4 +13,4 @@ Features:
 Instructions:
 1. Install the Blender add-on.
 2. Create a Nurbs Curve.
-3. Go to Platform Control and Export.
+3. Go to Data > Platform Control and Export.
