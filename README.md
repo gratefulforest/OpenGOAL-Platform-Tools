@@ -7,7 +7,7 @@ Features:
 - Spawn any number of platforms in realtime by adjusting a slider.
 - Set platform speed, curve shape and whether your curve is looped or not.
 - Watch real-time animations that match your in-game platforms.
-- Export complex set-ups instantly with one-click handling of all code.
+- Correctly format complex use-cases with one-click handling of all code.
 - Take no action except CTRL-V to see your platforms in game.
 
 Instructions:
