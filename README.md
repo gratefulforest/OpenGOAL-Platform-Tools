@@ -1,5 +1,8 @@
 # OpenGOAL-Platform-Tools
-"One-Click" Curve Maker for OpenGOAL
+
+![Static Badge](https://img.shields.io/badge/language-python-%23306998) ![Static Badge](https://img.shields.io/badge/language-opengoal-yellow) ![Static Badge](https://img.shields.io/badge/one%20click%20export-blue)
+
+**One-Click Curve Maker for Jak 1**
 
 ![opengoal platform tools](https://github.com/user-attachments/assets/a159b33f-99b8-45eb-81a5-4b726ab35cb2)
 
