@@ -8,7 +8,7 @@
 
 Features:
 - Spawn any number of platforms in realtime by adjusting a slider.
-- Live adjustments: 1:1 platform animation running in Blender.
+- Make adjustments live: See an animation in Blender that's an exact match of your in-game platforms.
 - Instant export: All code formatted in 1 second, do nothing but CTRL-V to see your platforms in game.
 
 Instructions:
